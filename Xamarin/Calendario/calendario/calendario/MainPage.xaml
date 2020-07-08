@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:calendario"
+             xmlns:sf="clr-namespace:Syncfusion.SfCalendar.XForms;assembly=Syncfusion.SfCalendar.XForms"
+             xmlns:sff="clr-namespace:Syncfusion.SfSchedule.XForms;assembly=Syncfusion.SfSchedule.XForms"
+             x:Class="calendario.MainPage"
+             Title="Calendário">
+
+     <!--<StackLayout>
+       <Button Text="Adicionar Evento" VerticalOptions="Start"/>
+        <StackLayout VerticalOptions="FillAndExpand">
+            <sf:SfCalendar x:Name="calendar" />
+        </StackLayout>
+        <sff:SfSchedule x:Name="schedule" ScheduleView="MonthView"
+        ShowAppointmentsInline="True" /
+    </StackLayout>>-->
+
+</ContentPage>
