@@ -1,4 +1,4 @@
-# Portifolio
+# Portfólio
 Projetos e Cursos do Rafael Kerni
 
 Curso Laravel - Introdução ao Laravel (https://www.udemy.com/course/introducao-ao-laravel-53)
